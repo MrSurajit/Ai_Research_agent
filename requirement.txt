@@ -3,5 +3,3 @@ agno
 groq
 ddgs
 python-dotenv
-SqliteDb
-agno
