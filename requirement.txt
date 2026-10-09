@@ -1,5 +1,0 @@
-streamlit
-agno==1.4.5
-groq
-ddgs
-python-dotenv
