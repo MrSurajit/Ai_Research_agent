@@ -8,4 +8,4 @@ groq
 ddgs
 python-dotenv
 openai
-sqlalchemy
+sqlalchemy[asyncio]
