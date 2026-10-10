@@ -1,5 +1,5 @@
 streamlit
-agno==1.4.5
+agno
 groq
 ddgs
 python-dotenv
