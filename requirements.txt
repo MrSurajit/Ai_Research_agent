@@ -1,7 +1,11 @@
+
+SqliteDb
 streamlit
 agno
 groq
 ddgs
 python-dotenv
 openai
-SqliteDb
+sqlalchemy
+pypdf
+python-docx
