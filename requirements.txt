@@ -6,6 +6,6 @@ groq
 ddgs
 python-dotenv
 openai
-sqlalchemy
+
 pypdf
 python-docx
