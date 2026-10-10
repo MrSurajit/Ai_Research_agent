@@ -1,10 +1,11 @@
 
+pypdf
+python-docx
+
 streamlit
 agno
 groq
 ddgs
 python-dotenv
 openai
-
-pypdf
-python-docx
+sqlalchemy
