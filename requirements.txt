@@ -1,5 +1,4 @@
 
-SqliteDb
 streamlit
 agno
 groq
